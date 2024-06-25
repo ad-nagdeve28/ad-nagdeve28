@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hello%20Everyone](https://media.licdn.com/dms/image/C4E16AQFme3SZA6JpJw/profile-displaybackgroundimage-shrink_350_1400/0/1626597594837?e=1724889600&v=beta&t=GAg0sUSQoKpe3Lej4pR4o4jM-nbec8mhMz6H0Ibt9bw)!&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=black"/>
+  <img src="https://media.licdn.com/dms/image/C4E16AQFme3SZA6JpJw/profile-displaybackgroundimage-shrink_350_1400/0/1626597594837?e=1724889600&v=beta&t=GAg0sUSQoKpe3Lej4pR4o4jM-nbec8mhMz6H0Ibt9bw!&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=black"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=/ad-nagdeve28&label=Profile%20views&color=0e75b6&style=flat" alt="ad-nagdeve28" /> </p>
 
